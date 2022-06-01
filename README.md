@@ -1,6 +1,6 @@
 # barcode_reader
 
-A new Flutter project.
+A barcode scanner made in Flutter.
 
 ## Getting Started
 
